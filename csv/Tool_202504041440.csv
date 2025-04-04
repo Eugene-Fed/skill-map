@@ -1,0 +1,13 @@
+"ToolId","ToolName","ToolDescription"
+1,Класс,
+2,Декоратор,
+3,Коллбек-функция,
+4,fastapi.WebSocket,
+5,aiohttp.WebSocketClient,
+6,httpx,
+7,aiohttp,Низкоуровненвый асинхронный HTTP-клиент
+8,JSON Schema,
+9,Pydantic,
+10,fastapi.SQLModel,
+11,asyncio,"""Коробочный"" низкоуровневый инструмент асинхронной разработки на Python"
+12,fastapi.app,"Базовый класс FastAPI, который обслуживает задачи веб-приложения"
